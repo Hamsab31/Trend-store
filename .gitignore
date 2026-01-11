@@ -1,12 +1,4 @@
 # Terraform
 .terraform/
 terraform.tfstate
-terraform.tfstate.backup
-*.tfstate
-*.tfstate.*
-
-# Node
-node_modules/
-
-# OS
-.DS_Store
+terraform.tfstate.*
